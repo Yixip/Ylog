@@ -22,8 +22,8 @@ module.exports = {
 	],
 	plugins: [
 		'fulltext-search',
-		['sitemap', { hostname: 'https://your-domain.com' }],
-		['feed', { canonical_base: 'https://your-domain.com' }]
+		['sitemap', { hostname: 'https://yixip.github.io/Ylog' }],
+		['feed', { canonical_base: 'https://yixip.github.io/Ylog' }]
 	],
 	dest: 'docs/.vuepress/dist'
 }
